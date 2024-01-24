@@ -99,7 +99,7 @@
 
         <div class="main__footer">
           <p>A fansite for Korty EO</p>
-          <p>© 2021</p>
+          <p>© 2024</p>
         </div>
       </div>
     </div>
